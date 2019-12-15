@@ -132,5 +132,5 @@ In the example above, the factor of interest has only 2 levels (trt1 and trt2) a
 The final step is to assess whether ANOVA Assumptions are validated or not. This can be achieved by analyzing residuals' distribution.
 {: style="text-align: justify;"}
 
-Further details about assessing linear model assumptions validation can be found [here] **INSERT LINK article about linear model assumptions**
+Further details about assessing assumptions validation can be found [here](https://datastream101.github.io/blog/linear-models-assumptions/)
 {: style="text-align: justify;"}
