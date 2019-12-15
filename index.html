@@ -1,0 +1,16 @@
+---
+layout: home
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /images/background2.jpg
+author_profile: true
+---
+
+
+<div class="feature__wrapper">
+
+  {% for f in site.posts limit:5 %}
+     <!-- can stay the same as the current feature_row include -->
+  {% endfor %}
+
+</div>
