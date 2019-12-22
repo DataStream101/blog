@@ -58,7 +58,7 @@ Pour la réalisation de ce projet, deux différents langages de programmation on
 *	**Python 3.7** pour le traitement des données, la programmation du moteur d’inférence du Système Expert ainsi que de l’interface utilisateur.
 {: style="text-align: justify;"}
 
-Le code complet est disponible [ici](link github).<br>
+Le code complet est disponible [ici](https://github.com/DataStream101/Dyoniso--An-expert-system-for-wine-recommendation).<br>
 {: style="text-align: justify;"}
 
 ## Les Données et l'Architecture de Dyoniso
@@ -177,7 +177,6 @@ Un exemple d'une règle définie dans la base de connaissance de Dyoniso est le 
 
 Quand une règle est appelée, son résultat est obtenu via un mécanisme d’unification. 
 {: style="text-align: justify;"}
-La base de connaissance complète est disponible [ici](link github).<br>
 
 
 ## 3ème Étape - Implémentation du Moteur d'Inférence et de l'Interface Utilisateur
@@ -192,8 +191,6 @@ Chaque catégorie de plat a été représentée par un ensemble de classes et, a
 
 Cette approche modulaire m’a permis de gérer l’interaction entre l’utilisateur et le système expert de façon différente en fonction de la catégorie choisie, au tout début, par l’utilisateur. 
 {: style="text-align: justify;"}
-
-Le code complet est disponible [ici](link github).<br>
 
 
 # Le Résultat
